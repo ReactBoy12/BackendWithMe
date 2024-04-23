@@ -1,0 +1,11 @@
+{
+  "name": "backend-tut",
+  "version": "1.0.0",
+  "description": "backend with shailesh",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "shailesh",
+  "license": "ISC"
+}
